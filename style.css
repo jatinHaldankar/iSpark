@@ -1,0 +1,35 @@
+
+
+body{
+    background-color: whitesmoke;
+}
+
+
+
+.slider{
+    height: 80vh;
+}
+
+.cardHeader{
+    text-align: center; 
+}
+
+.card_shadow{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.pCardText{
+    text-align: justify;
+}
+
+.transferCard{
+    display: flex;
+    margin-top: 10vh;
+    background-color: white;
+    padding-bottom: 1vh;
+}
+
+.transferForm{
+    display: flex;
+    flex-direction: column;
+}
